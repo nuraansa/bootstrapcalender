@@ -1,0 +1,21 @@
+table thead tr th{
+    border: 2px solid black;
+    text-align: center;
+}
+.td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    margin: 60px;
+}
+
+.col {
+    width: 10rem;
+}
+
+table {
+    width: 90% !important;
+}
